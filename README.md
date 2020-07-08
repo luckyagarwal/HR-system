@@ -2,6 +2,7 @@
 It is a GUI application to automate some intermediate steps in the Interview process by the HR department of a company.
 
 ## How to run the application?
+Clone the repo.<br/>
 Please make sure you have essential dependencies installed in your system. 
   * pyqt5
   * sqlite3<br/>
